@@ -11,6 +11,7 @@ namespace Pruebagit
         static void Main(string[] args)
         {
             Console.WriteLine("primer cambio");
+            Console.WriteLine("segundo cambio");
         }
     }
 }
